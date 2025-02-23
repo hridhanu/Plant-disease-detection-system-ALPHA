@@ -78,3 +78,7 @@ This project is open-source and licensed under the MIT License.
 ## 👨‍💻 Author
 Developed by **TUSHAR GOYAL, HRIDHANU BOSE, ADITYA PARMAR**  
 
+## 📝 Note
+In files (Plant disease detection system\model1.h5\variables)
+(variables.data-00000-of-00001), data is missing due to size constraints. Please download and replace it from the link provided.
+https://drive.google.com/file/d/1cpzfMjsVg9u2rhaUyM-5eQwWekcQCzZD/view?usp=sharing
