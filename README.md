@@ -16,7 +16,7 @@ The **Plant Disease Detection System** is a deep learning-based solution that he
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/hridhanu/Plant-disease-detection-system-ALPHA.git
 cd plant-disease-detection
 ```
 
